@@ -155,3 +155,4 @@
 - **Fase 5 (Polimento)**: ⬜ PENDENTE
 ac<!-- sync chunk 33 -->
 <!-- sync chunk 34 -->
+<!-- sync chunk 35 -->
