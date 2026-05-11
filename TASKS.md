@@ -154,3 +154,4 @@
 - **Fase 4 (Histórico)**: 🕒 PRÓXIMO PASSO
 - **Fase 5 (Polimento)**: ⬜ PENDENTE
 ac<!-- sync chunk 33 -->
+<!-- sync chunk 34 -->
