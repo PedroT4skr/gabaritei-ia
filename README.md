@@ -1,10 +1,6 @@
 # Gabaritei - OMR Inteligente
 
-<div align="center">
-  <img src="./assets/screenshots/home.png" alt="Home Screen" width="280"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/screenshots/scan.png" alt="Scan Screen" width="280"/>
-</div>
+
 
 ## 📌 Sobre o Projeto
 
