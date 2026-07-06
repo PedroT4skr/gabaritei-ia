@@ -73,6 +73,3 @@ A arquitetura segue os princípios de separação de responsabilidades (SOLID), 
 4. **Abra o app:**
    Escaneie o QR Code gerado no terminal usando o aplicativo Expo Go no seu smartphone ou pressione `a` para abrir no Android Emulator e `i` para iOS Simulator.
 
-## 🛡️ Segurança
-
-Foi aplicado um `.gitignore` rigoroso para proteger tokens, credenciais locais e arquivos de log. Todo segredo deve ser inserido através de um `.env` local na máquina do desenvolvedor (não comitado). 
